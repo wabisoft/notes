@@ -1,111 +1,143 @@
-# Action Adventure
-* below
-* steamworld dig 2
-* the messenger
-* ape out
+# Play these games
 
-# Artistic Adventure
-* abzu
-* the pathless
+## Action Adventure
+* [Ape Out](https://store.steampowered.com/app/447150/APE_OUT/)
+* [Below]()
+* Dark Souls
+* Furi
+* Flashback
+* ~Hyper Light Drifter~
+* Hellblade
+* Jotun
+* Little Nightmares
+* ~Owl Boy~
+* Steamworld Dig 2
+* ~Shadow of the Colossus~
+* Terraria
+* The Last Night
+* The Messenger
 
-# Passive Adventure (Walking Sim)
-* heaven's vault
-* the haunted island a frog detective game
-* mendel
-* untitled goose game
-* wreckcoons
-* ~donut county~
+
+## Artistic Adventure
+* Abzu
+* Eufloria
+* Everything
+* Kentucky Route Zero
+* Proteus
+* The Pathless
+* The Shape Of The World
+
+
+## Passive Adventure (Walking Sim)
+* ~Donut County~
+* Firewatch
+* Heaven's Vault
 * Katamari Demacy
+* Night In The Woods
+* Mendel
+* Tacoma
+* The Haunted Island A Frog Detective Game
+* The Stanley Parable
+* The Town Of Light
+* Untitled Goose Game
+* What Remains Of Edith Finch
+* Wreckcoons
 
-# Building
-* kerbal space program
-* reassembly
-* gimbal
 
-# Strategy
-* total war series: shogun 2
-* into the breach
+## Building
+* Gimbal
+* Kerbal Space Program
+* Reassembly
 
-# RPG
-* crosscode
-* Disco Elysium
+## Card
+* Card Thief
+* Shadowhand
 
-# Action RPG
-* The Outer Worlds
+## Narative
+* Bury Me My Love
+* ~Her Story~
+* The Red Strings Club
 
-# Action Puzzle
-* Outer Wilds
-* Talos Principle
+## Experimental
+* ~Post Capitalism By Colestia~ (https://colestia.itch.io/postcapitalism)
 
-# Puzzle
+## Platformer
+* ~Celeste~
+
+## Puzzle Platformer
+* ~Inside~
+* ~Limbo~
+
+## Action Platformer
+* 20XX
+* Azure Striker Gunvolt
+* Dead Cells
+* Hollow Knight
+* Mighty Gunvolt Burs
+* My Friend Pedro
+* Shovel Knight
+
+## Puzzle
+* Amanita Design
 * Miegakure!
 * The Gardens Between
 
-hellblade
-little nightmares
-there are billions
-card theif
-shadowhand
-night in the woods
-what remains of edith finch
-amanita design
-kentucky route zero
-firewatch
-bury me my love
-Tacoma
-The Stanley Parable
-The Town of Light
-Everything
+## Action Puzzle
+* Manifold Garden
+* Outer Wilds
+* ~Portal~
+* Talos Principle
 
-proteus
-eufloria
-the shape of the world
+## RPG
+* Baldurs Gate II
+* Crosscode
+* Disco Elysium
 
-Terraria
+## (J)RPG (https://kotaku.com/the-20-jrpgs-you-must-play-1222229344)
+* Chrono Trigger
+* Dragon Quest VIII
+* Earthbound
+* Final Fantasy IX
+* Final Fantasy Tactics
+* Final Fantasy VI
+* Final Fantasy VII
+* Illusion Of Gaia
+* Kingdom Hearts II
+* Lost Odyssey
+* Lufia 2
+* Lunar: Eternal Blue Complete
+* Ni No Kuni
+* Persona 5
+* Phantasy Star IV
+* Radiant Historia
+* Suikoden II
+* Super Mario RPG
+* The Legend of Heros: Trails in the Sky
+* Xenogears
 
-limbo ✓
-inside ✓
-her story ✓
+## (MMO)RPG
+* World of Warcraft
 
-bad north
-Daemon X Machina
+## Action RPG
+* Fallout: New Vegas
+* ~Skyrim~
+* The Outer Worlds
 
-the red strings club
-manifold garden
-The Last Night
-Furi
-Post Capitalism by Colestia
+## Shoot'em Up
+* Desert Child
 
-flashback
+## Shooter
+* Void Bastards
 
-dead cells
-hollow knight
-owl boy
+## Action Shooter
+* Daemon X Machina
 
-MEGA MAN:
-20XX
-shovel knight
-Mighty Gunvolt Burs
-Azure Striker Gunvolt
-
-JRPGs:
-https://kotaku.com/the-20-jrpgs-you-must-play-1222229344
-
-My Friend Pedro
-Desert's Child
-Void Bastards
-
-Jospeh Anderson:
-1) Chrono Trigger
-2) Final Fantasy 6
-3) Dark Souls
-4) World of Warcraft
-5) Dungeon Keeper
-6) Skyrim
-7) Fallout: New Vegas
-8) Baldurs Gate 2
-9) Shadow of the Colossus
-10) Portal
+## Strategy
+* Bad North
+* [Dungeon Keeper](https://www.gog.com/game/dungeon_keeper)
+* Into The Breach
+* They Are Billions
+* Total War Series: Shogun 2
 
 # If you really feel like it
 
