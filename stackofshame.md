@@ -17,7 +17,6 @@
 * The Last Night
 * The Messenger
 
-
 ## Artistic Adventure
 * Abzu
 * Eufloria
@@ -43,6 +42,8 @@
 * What Remains Of Edith Finch
 * Wreckcoons
 
+## Arcade
+* [WarioWare Inc.](https://www.mariowiki.com/WarioWare,_Inc.:_Mega_Microgame$!)
 
 ## Building
 * Gimbal
@@ -76,6 +77,7 @@
 * Mighty Gunvolt Burs
 * My Friend Pedro
 * Shovel Knight
+* Warioland
 
 ## Puzzle
 * Amanita Design
@@ -93,7 +95,7 @@
 * Crosscode
 * Disco Elysium
 
-## (J)RPG (https://kotaku.com/the-20-jrpgs-you-must-play-1222229344)
+## [(J)RPG](https://kotaku.com/the-20-jrpgs-you-must-play-1222229344)
 * Chrono Trigger
 * Dragon Quest VIII
 * Earthbound
