@@ -64,8 +64,11 @@
 * ~Post Capitalism By Colestia~ (https://colestia.itch.io/postcapitalism)
 
 ## Platformer
-* ~Celeste~
 * Super Mario Advance 4: Super Mario Bros. 3 (gba)
+
+## Masocore Platformer
+* ~Celeste~
+* 1001 Spikes
 
 ## Puzzle Platformer
 * ~Inside~
