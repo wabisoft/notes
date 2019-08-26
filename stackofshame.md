@@ -61,7 +61,7 @@
 * The Red Strings Club
 
 ## Experimental
-* ~Post Capitalism By Colestia~ (https://colestia.itch.io/postcapitalism)
+* [~Post Capitalism By Colestia~](https://colestia.itch.io/postcapitalism)
 
 ## Platformer
 * Super Mario Advance 4: Super Mario Bros. 3 (gba)
@@ -75,6 +75,7 @@
 * ~Limbo~
 
 ## Action Platformer
+### 2D
 * 20XX
 * Azure Striker Gunvolt
 * [Castlevania (series)](https://www.polygon.com/features/2018/10/26/18011828/best-castlevania)
@@ -98,6 +99,10 @@
 * My Friend Pedro
 * Shovel Knight
 * Warioland (gba)
+
+### 3D
+* Enslaved: Odyssey to the West
+
 
 ## Puzzle
 * Amanita Design
