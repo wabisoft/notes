@@ -108,6 +108,7 @@
 ## Puzzle
 * Amanita Design
 * Miegakure!
+* Return of the Obra Dinn
 * The Gardens Between
 
 ## Action Puzzle
