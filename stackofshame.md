@@ -2,6 +2,7 @@
 
 ## Action Adventure
 * [Ape Out](https://store.steampowered.com/app/447150/APE_OUT/)
+* A Plague Tale: Innocence
 * Below
 * Dark Souls
 * Furi
