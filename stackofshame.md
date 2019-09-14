@@ -5,6 +5,7 @@
 * A Plague Tale: Innocence
 * Below
 * Dark Souls
+* [Eastward](https://www.nintendo.com/games/detail/eastward-switch/)
 * Furi
 * Flashback
 * ~Hyper Light Drifter~
